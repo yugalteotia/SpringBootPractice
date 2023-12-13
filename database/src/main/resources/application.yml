@@ -1,0 +1,5 @@
+spring.datasource:
+  url: jdbc:h2:mem:testDb
+  username: SA
+  password: password
+#  driver-class-name: org.H2.Driver
